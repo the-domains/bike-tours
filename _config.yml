@@ -1,4 +1,3 @@
-layout_spectrum: 0.6286256709136069
 typography_spectrum: 0.10582156828604639
 color:
   brandStrength: 0.10218237503431737
@@ -11,7 +10,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-name: Bike Tours
+layout_spectrum: 0.6286256709136069
+name: RFH
 navigation:
   - name: Fitness Holidays
     url: 'http://www.rfhfitness.com/'
@@ -22,3 +22,4 @@ navigation:
   - name: Viajes en Bicicleta
     url: 'http://www.rfhviajesenbici.com/'
     type: external
+title: 'The very best fitness, weight-loss & cycling holidays'
