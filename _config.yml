@@ -6,9 +6,13 @@ color:
   saturation: 0.4908839261624962
   rhythmicContrast: 0.537217874545604
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Bike Tours
+navigation:
+  - name: Fitness Holidays
+    url: 'http://www.rfhfitness.com/'
+    type: external
