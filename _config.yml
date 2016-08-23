@@ -19,3 +19,6 @@ navigation:
   - name: Bike Tours in Europe
     url: 'http://www.rfhbiketours.com/'
     type: external
+  - name: Viajes en Bicicleta
+    url: 'http://www.rfhviajesenbici.com/'
+    type: external
